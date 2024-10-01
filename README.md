@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Dan! </h1>
 
-<!--
-**danohara1/danohara1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> About me:</h2>
 
-Here are some ideas to get you started:
+I am a senior Cybersecurity major with a minor in Computer Science. I have a passion for threat hunting, incident response, and digital forensics. I am currently building Security Analytical skills through projects, labs, and certifications. I update my Github as fast as I can complete projects and obtain certifications. I am seeking experience and knowledge in the field.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>👨‍💻 Cyber Projects</h2>
+
+- [Creating and Using an SIEM Lab using Wazuh](https://github.com/danohara1/SIEMLabWriteup/tree/main)
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: [https://www.instagram.com/danz_the_man/]
+[linkedin]: [https://www.linkedin.com/in/daniel-r-ohara/]
