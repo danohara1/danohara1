@@ -4,10 +4,6 @@
 
 I am a senior Cybersecurity major with a minor in Computer Science. I am passionate about threat hunting, incident response, and digital forensics. I am currently building Security Analytical skills through projects, labs, and certifications. I update my Github as fast as I can complete projects and obtain certifications. I am seeking experience and knowledge in the field.
 
-<h2>📝 Resume</h2>
-
-- [Click here to view my Resume]()
-
 <h2>👨‍💻 Cyber Projects</h2>
 
 - [Creating and Using an SIEM Lab using Wazuh](https://github.com/danohara1/SIEMLabWriteup/tree/main)
